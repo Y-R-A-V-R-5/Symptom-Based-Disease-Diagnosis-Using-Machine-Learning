@@ -68,5 +68,5 @@ To run this project on your local machine, follow these steps:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/symptom-disease-diagnosis.git
-cd symptom-disease-diagnosis
+git clone https://github.com/Y-R-A-V-R-5/Symptom-Based-Disease-Diagnosis-Using-Machine-Learning.git
+cd Symptom-Based-Disease-Diagnosis-Using-Machine-Learning
