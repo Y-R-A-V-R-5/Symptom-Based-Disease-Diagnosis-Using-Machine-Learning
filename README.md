@@ -40,7 +40,7 @@ This project was developed by a team of dedicated Computer Science students unde
   - Focused on developing the backend architecture for the prediction system and evaluating the performance of the machine learning models.
  
 - **Y. Adithya Vardhan Reddy**
-  - Data Analyst and Preprocessing Expert
+  - Data Analyst and Preprocessing
   - In charge of data cleaning, preprocessing, and feature engineering to ensure the dataset is ready for machine learning.
 
 ## Professor
